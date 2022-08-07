@@ -1,0 +1,45 @@
+body{
+    background-color:ivory;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.copy_right_footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: lightslategray ;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px gray;
+}
+
+.header_div{
+    background-color: white;
+    text-align: center;
+    color: crimson;
+}
+
+.header_div p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 3, 3);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.main_div button{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+#animal_img{
+width: 300px;
+border:3px dashed black;
+
+}
